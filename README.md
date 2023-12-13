@@ -1,6 +1,4 @@
-# PROC46-1_4-plantilla-proyecto
-Atrapa frutas. Etapa 3. Generación de obstáculos.
-Modificación por parte del alumno en tres secciones diferentes. 
-Firebase activo.
+# PROC48-1_4-Plantilla-alumno
+Campo de tiro etapa II.  
 
-### Nombre en Inglés: project-template-fruit-catcher-3
+## Texto en inglés: SHOOTING-RANGE-II-template
